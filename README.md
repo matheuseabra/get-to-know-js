@@ -1,6 +1,6 @@
 # Get to Know Javascript
 
-A public Test Lab for exploring latest features and dismitifying common misunderstanding about Javascript.
+My personal science Lab for exploring latest features and dismitifying common misunderstandings about Javascript.
 
 # Contributing
 
